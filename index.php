@@ -9,7 +9,6 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta name="description" content="Astroserviceconsultancy.com is a portal where our clients and audience get better advice and better solution of any types of problems,  with the help of the Best Astrologer in India, get better instant solution of any problems of life by Astroserviceconsultancy.com. Astroserviceconsultancy.com provides you the best Astrology service & instant solution of any problem of life  in India & all over World.">
-
     <meta name="keywords" content="Astrology,jyotish,Love marriage problem, Relationship Problem,  Business Problem,  Love Issue, Career Problem Solution, Kundli Matching problems, Health problem, best astrologer in india">
     <meta name="MobileOptimized" content="320">
     <!--Srart Style -->
